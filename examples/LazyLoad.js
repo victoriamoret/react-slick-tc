@@ -5,7 +5,8 @@ import { baseUrl } from "./config";
 function LazyLoad() {
   const settings = {
     dots: true,
-    lazyLoad: true,
+    lazyLoad: "ondemand",
+    ondemandSlidesToLoad: 2,
     infinite: true,
     speed: 500,
     slidesToShow: 1,
