@@ -1,5 +1,5 @@
 {
-  "name": "react-slick",
+  "name": "react-slick-tc-lazyload",
   "version": "0.29.0",
   "description": " React port of slick carousel",
   "main": "./lib",
